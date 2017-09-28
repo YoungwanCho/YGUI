@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: SampleAtlas
+  m_EditorData:
+    textureSettings:
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      colorSpace: 1
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+    platformSettings: []
+    packingParameters:
+      paddingPower: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    packedHash:
+      serializedVersion: 2
+      Hash: 3582c2badb49d4124e3547e46993d950
+    variantMultiplier: 1
+    bindAsDefault: 1
+    finalFormat: 4
+    hashString: 3582c2badb49d4124e3547e46993d950
+    totalSpriteSurfaceArea: 458752
+    packables:
+    - {fileID: 102900000, guid: 911b1948c800ecb439f2901a31568146, type: 3}
+    packedSpriteRenderDataKeys:
+    - 1c9bfe2547197a44ba832b366c48feb2: 21300000
+    - d9ecf2eb86c346f418b67213cca7bf29: 21300000
+    - 5fdc7843fe400bf48af7fda92dc3bba9: 21300000
+    - 96fb5648c94029d47a64195be8ff1b05: 21300000
+    - 6cc0d81d99dc74349841270021c417a7: 21300000
+    - b1dee4d75fa109f49b00055edbad82a3: 21300000
+    - b1511150524020145911b3affb745b75: 21300000
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 1c9bfe2547197a44ba832b366c48feb2, type: 3}
+  - {fileID: 21300000, guid: d9ecf2eb86c346f418b67213cca7bf29, type: 3}
+  - {fileID: 21300000, guid: 5fdc7843fe400bf48af7fda92dc3bba9, type: 3}
+  - {fileID: 21300000, guid: 96fb5648c94029d47a64195be8ff1b05, type: 3}
+  - {fileID: 21300000, guid: 6cc0d81d99dc74349841270021c417a7, type: 3}
+  - {fileID: 21300000, guid: b1dee4d75fa109f49b00055edbad82a3, type: 3}
+  - {fileID: 21300000, guid: b1511150524020145911b3affb745b75, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - ButtonQuestionmark
+  - ButtonRefresh
+  - ButtonPause
+  - ButtonNext
+  - ButtonPlay
+  - ButtonPrevious
+  - ButtonStop
+  m_Tag: SampleAtlas
+  m_IsVariant: 0
